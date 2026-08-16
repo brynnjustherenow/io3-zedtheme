@@ -1,0 +1,8 @@
+id = "io3"
+name = "io3"
+version = "0.1.0"
+schema_version = 1
+authors = ["io3"]
+description = "A modern light/dark theme family with a subtle frosted-glass background and readability-first syntax colors"
+repository = "https://github.com/your-name/io3"
+themes = ["themes/io3.json"]

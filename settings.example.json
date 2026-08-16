@@ -1,0 +1,17 @@
+{
+  "theme": {
+    "mode": "system",
+    "light": "io3 Light",
+    "dark": "io3 Dark"
+  },
+  "buffer_font_family": "JetBrains Mono",
+  "buffer_font_size": 14,
+  "buffer_font_weight": 400,
+  "buffer_line_height": "comfortable",
+  "ui_font_family": "Inter",
+  "ui_font_size": 14,
+  "terminal": {
+    "font_family": "JetBrains Mono",
+    "font_size": 13
+  }
+}
