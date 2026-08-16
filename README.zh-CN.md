@@ -4,6 +4,16 @@
 
 一套现代化的 [Zed](https://zed.dev) 主题——黑白双色，背景带轻微毛玻璃模糊，配色以可读性优先。
 
+## 预览
+
+**io3 Dark**
+
+![io3 Dark](screenshots/dark.png)
+
+**io3 Light**
+
+![io3 Light](screenshots/light.png)
+
 ## 特性
 
 - **黑 / 白双色** —— `io3 Dark` 与 `io3 Light`，跟随系统外观自动切换

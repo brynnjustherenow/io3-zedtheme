@@ -4,6 +4,16 @@
 
 A modern theme family for [Zed](https://zed.dev) — light and dark variants with a subtle frosted-glass background and readability-first syntax colors.
 
+## Preview
+
+**io3 Dark**
+
+![io3 Dark](screenshots/dark.png)
+
+**io3 Light**
+
+![io3 Light](screenshots/light.png)
+
 ## Features
 
 - **Light & dark** — `io3 Light` and `io3 Dark`, following your system appearance
