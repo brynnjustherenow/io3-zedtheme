@@ -14,6 +14,11 @@ A modern theme family for [Zed](https://zed.dev) — light and dark variants wit
 
 ![io3 Light](screenshots/light.png)
 
+## Variants
+
+- **io3 Light / io3 Dark** — the modern light/dark pair
+- **io3 Glow** — a neon variant: the full io3 palette boosted to luminous, fluorescent colors on a near-black tube, evoking the glow of CRT text without going monochrome
+
 ## Features
 
 - **Light & dark** — `io3 Light` and `io3 Dark`, following your system appearance

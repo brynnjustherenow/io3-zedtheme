@@ -14,6 +14,11 @@
 
 ![io3 Light](screenshots/light.png)
 
+## 变体
+
+- **io3 Light / io3 Dark** —— 现代化的黑/白双色
+- **io3 Glow** —— 霓虹荧光变体：保留 io3 全彩语法，整体提亮为发光的荧光色阶，近黑底衬托，还原 CRT 文字的荧光感而非单色屏模仿
+
 ## 特性
 
 - **黑 / 白双色** —— `io3 Dark` 与 `io3 Light`，跟随系统外观自动切换
